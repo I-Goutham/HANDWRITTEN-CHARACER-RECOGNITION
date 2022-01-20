@@ -1,0 +1,31 @@
+------------------------------
+INSTALLATION REQUIREMENTS
+------------------------------
+  >Python
+  >pandas
+  >NumPy
+  >matplotlib.pyplot
+  >Jupyter Notebook
+  >Anaconda Navigator
+  >Keras 
+  
+------------------------------
+DATASETS USED OR REQUIRED
+------------------------------
+1. Telugu vowel dataset and its csv file is taken from www.kaggle.com
+2. MNIST Dataset is Available in keras which is available in anaconda prompt as a module
+  
+-------------------------------
+PROCEDURE
+-------------------------------
+         step 1: Install Anaconda navigator and create a environment and install above requirements in the created environment.
+         
+         step 2: After successfull installation select the environment and launch jupyter notebook through that environment
+         
+         step 3:write the source code(.ipynb) in jupyter notebook 
+         
+         step 4: Go for execution of source code
+         
+         step 5:For Telugu VowelDataset The prediction is given as Actual labels vs predicted labels
+         
+         step 6:For MNIST Dataset the prediction is given with the help of GUI
